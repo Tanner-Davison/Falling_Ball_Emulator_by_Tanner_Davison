@@ -1,4 +1,6 @@
 # Falling Ball Simulation
+by: Tanner Davison
+email: tanner.davison95@gmail.com
 
 ## Description
 
