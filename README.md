@@ -11,35 +11,32 @@ This repository contains a simulation program written in C++ that models the fal
 - **Dynamic Memory Management:** Uses dynamic memory allocation for managing the height of the tower.
 - **Time Simulation:** Simulates the falling process over time, with output updating each second.
 
-## Getting Started
+## Build the Project
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/tower-simulation.git
-Navigate to the Project Directory:
+Open the project in Visual Studio or use `cmake` to generate the build files. Build the project using the appropriate tool (Visual Studio, `make`, etc.).
 
-bash
-Copy code
-cd tower-simulation
-Build the Project:
+## Run the Simulation
 
-Open the project in Visual Studio or use cmake to generate the build files.
-Build the project using the appropriate tool (Visual Studio, make, etc.).
-Run the Simulation:
+Execute the compiled program. Input the height of the tower when prompted.
 
-Execute the compiled program.
-Input the height of the tower when prompted.
-Requirements
-Visual Studio 2022 (or another compatible C++ compiler)
-C++11 or later
-Contributing
-Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
+## Requirements
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- **Visual Studio 2022** (or another compatible C++ compiler)
+- **C++11** or later
 
-Acknowledgments
-Thanks to Microsoft for providing the development tools.
-Inspiration from physics simulations and educational resources.
+## Contributing
 
-This Markdown format provides a clear, organized description of your project and includes all sections necessary for documentation on GitHub.
+Contributions are welcome! Please feel free to submit:
+
+- Issues
+- Feature requests
+- Pull requests
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
+## Acknowledgments
+
+- Thanks to Microsoft for providing the development tools.
+- Inspiration from physics simulations and educational resources.
